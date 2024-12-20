@@ -23,7 +23,7 @@
             <i class="material-icons">people</i>
           </div>
           <div class="content">
-            <div class="text">Proveedores</div>
+            <div class="text">Proveedoreeeees</div>
             <div class="number">{{ info.total_vendor }}</div>
           </div>
         </div>

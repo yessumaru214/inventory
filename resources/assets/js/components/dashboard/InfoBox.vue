@@ -94,7 +94,7 @@
           </div>
         </div>
       </div>
-
+<!-- 
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
         <div class="info-box bg-deep-orange hover-zoom-effect">
           <div class="icon">
@@ -162,8 +162,8 @@
               <small>$ {{ info.total_net_profit }}</small>
             </div>
           </div>
-        </div>
-      </div>
+        </div
+      </div>-->
     </div>
   </div>
 </template>

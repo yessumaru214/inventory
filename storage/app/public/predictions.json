@@ -1,0 +1,802 @@
+[
+    {
+        "product_id":1,
+        "description":"Conectores Modelo 710",
+        "purchased_quantity":"528",
+        "sold_quantity":"16",
+        "predicted_sales":19.8626832612,
+        "prediction_year":2023
+    },
+    {
+        "product_id":2,
+        "description":"Mangueras Modelo 716",
+        "purchased_quantity":"1045",
+        "sold_quantity":"36",
+        "predicted_sales":35.46,
+        "prediction_year":2023
+    },
+    {
+        "product_id":3,
+        "description":"Filtros Modelo 985",
+        "purchased_quantity":"48",
+        "sold_quantity":"6",
+        "predicted_sales":13.2459609894,
+        "prediction_year":2023
+    },
+    {
+        "product_id":4,
+        "description":"V\u00e1lvulas Modelo 756",
+        "purchased_quantity":"220",
+        "sold_quantity":"22",
+        "predicted_sales":25.7012135978,
+        "prediction_year":2023
+    },
+    {
+        "product_id":5,
+        "description":"Bombas de agua Modelo 746",
+        "purchased_quantity":"410",
+        "sold_quantity":"58",
+        "predicted_sales":20.3988744925,
+        "prediction_year":2023
+    },
+    {
+        "product_id":6,
+        "description":"Accesorios Modelo 852",
+        "purchased_quantity":"0",
+        "sold_quantity":"37",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":7,
+        "description":"Tuber\u00edas Modelo 828",
+        "purchased_quantity":"0",
+        "sold_quantity":"20",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":8,
+        "description":"Herramientas Modelo 451",
+        "purchased_quantity":"0",
+        "sold_quantity":"27",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":9,
+        "description":"Otros accesorios agr\u00edcolas Modelo 976",
+        "purchased_quantity":"0",
+        "sold_quantity":"25",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":10,
+        "description":"Aspersores Modelo 176",
+        "purchased_quantity":"0",
+        "sold_quantity":"35",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":11,
+        "description":"Conectores Modelo 907",
+        "purchased_quantity":"300",
+        "sold_quantity":"39",
+        "predicted_sales":23.9709167003,
+        "prediction_year":2023
+    },
+    {
+        "product_id":12,
+        "description":"Mangueras Modelo 976",
+        "purchased_quantity":"0",
+        "sold_quantity":"7",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":13,
+        "description":"Filtros Modelo 752",
+        "purchased_quantity":"0",
+        "sold_quantity":"32",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":14,
+        "description":"V\u00e1lvulas Modelo 446",
+        "purchased_quantity":"354",
+        "sold_quantity":"19",
+        "predicted_sales":25.0714015487,
+        "prediction_year":2023
+    },
+    {
+        "product_id":15,
+        "description":"Bombas de agua Modelo 649",
+        "purchased_quantity":"0",
+        "sold_quantity":"19",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":16,
+        "description":"Accesorios Modelo 211",
+        "purchased_quantity":"75",
+        "sold_quantity":"20",
+        "predicted_sales":16.8832973712,
+        "prediction_year":2023
+    },
+    {
+        "product_id":17,
+        "description":"Tuber\u00edas Modelo 716",
+        "purchased_quantity":"0",
+        "sold_quantity":"15",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":18,
+        "description":"Herramientas Modelo 612",
+        "purchased_quantity":"0",
+        "sold_quantity":"15",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":19,
+        "description":"Otros accesorios agr\u00edcolas Modelo 878",
+        "purchased_quantity":"560",
+        "sold_quantity":"20",
+        "predicted_sales":19.8626832612,
+        "prediction_year":2023
+    },
+    {
+        "product_id":20,
+        "description":"Aspersores Modelo 456",
+        "purchased_quantity":"0",
+        "sold_quantity":"23",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":21,
+        "description":"Conectores Modelo 730",
+        "purchased_quantity":"0",
+        "sold_quantity":"34",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":22,
+        "description":"Mangueras Modelo 977",
+        "purchased_quantity":"0",
+        "sold_quantity":"34",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":23,
+        "description":"Filtros Modelo 586",
+        "purchased_quantity":"582",
+        "sold_quantity":"18",
+        "predicted_sales":19.8626832612,
+        "prediction_year":2023
+    },
+    {
+        "product_id":24,
+        "description":"V\u00e1lvulas Modelo 805",
+        "purchased_quantity":"0",
+        "sold_quantity":"16",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":25,
+        "description":"Bombas de agua Modelo 459",
+        "purchased_quantity":"0",
+        "sold_quantity":"16",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":26,
+        "description":"Accesorios Modelo 801",
+        "purchased_quantity":"445",
+        "sold_quantity":"16",
+        "predicted_sales":19.7995283386,
+        "prediction_year":2023
+    },
+    {
+        "product_id":27,
+        "description":"Tuber\u00edas Modelo 607",
+        "purchased_quantity":"980",
+        "sold_quantity":"27",
+        "predicted_sales":30.2861666667,
+        "prediction_year":2023
+    },
+    {
+        "product_id":28,
+        "description":"Herramientas Modelo 886",
+        "purchased_quantity":"0",
+        "sold_quantity":"13",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":29,
+        "description":"Otros accesorios agr\u00edcolas Modelo 899",
+        "purchased_quantity":"400",
+        "sold_quantity":"21",
+        "predicted_sales":21.0038744925,
+        "prediction_year":2023
+    },
+    {
+        "product_id":30,
+        "description":"Aspersores Modelo 496",
+        "purchased_quantity":"0",
+        "sold_quantity":"26",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":31,
+        "description":"Conectores Modelo 269",
+        "purchased_quantity":"0",
+        "sold_quantity":"19",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":32,
+        "description":"Mangueras Modelo 481",
+        "purchased_quantity":"0",
+        "sold_quantity":"17",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":33,
+        "description":"Filtros Modelo 806",
+        "purchased_quantity":"0",
+        "sold_quantity":"24",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":34,
+        "description":"V\u00e1lvulas Modelo 467",
+        "purchased_quantity":"0",
+        "sold_quantity":"7",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":35,
+        "description":"Bombas de agua Modelo 316",
+        "purchased_quantity":"288",
+        "sold_quantity":"10",
+        "predicted_sales":19.3618964982,
+        "prediction_year":2023
+    },
+    {
+        "product_id":36,
+        "description":"Accesorios Modelo 250",
+        "purchased_quantity":"0",
+        "sold_quantity":"25",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":37,
+        "description":"Tuber\u00edas Modelo 409",
+        "purchased_quantity":"0",
+        "sold_quantity":"16",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":38,
+        "description":"Herramientas Modelo 439",
+        "purchased_quantity":"0",
+        "sold_quantity":"14",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":39,
+        "description":"Otros accesorios agr\u00edcolas Modelo 351",
+        "purchased_quantity":"0",
+        "sold_quantity":"9",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":40,
+        "description":"Aspersores Modelo 982",
+        "purchased_quantity":"0",
+        "sold_quantity":"9",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":41,
+        "description":"Conectores Modelo 749",
+        "purchased_quantity":"0",
+        "sold_quantity":"22",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":42,
+        "description":"Mangueras Modelo 411",
+        "purchased_quantity":"434",
+        "sold_quantity":"18",
+        "predicted_sales":19.3620283386,
+        "prediction_year":2023
+    },
+    {
+        "product_id":43,
+        "description":"Filtros Modelo 632",
+        "purchased_quantity":"1012",
+        "sold_quantity":"38",
+        "predicted_sales":34.84875,
+        "prediction_year":2023
+    },
+    {
+        "product_id":44,
+        "description":"V\u00e1lvulas Modelo 388",
+        "purchased_quantity":"0",
+        "sold_quantity":"20",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":45,
+        "description":"Bombas de agua Modelo 439",
+        "purchased_quantity":"1036",
+        "sold_quantity":"37",
+        "predicted_sales":35.46,
+        "prediction_year":2023
+    },
+    {
+        "product_id":46,
+        "description":"Accesorios Modelo 679",
+        "purchased_quantity":"0",
+        "sold_quantity":"36",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":47,
+        "description":"Tuber\u00edas Modelo 632",
+        "purchased_quantity":"0",
+        "sold_quantity":"19",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":48,
+        "description":"Herramientas Modelo 132",
+        "purchased_quantity":"868",
+        "sold_quantity":"42",
+        "predicted_sales":36.1528333333,
+        "prediction_year":2023
+    },
+    {
+        "product_id":49,
+        "description":"Otros accesorios agr\u00edcolas Modelo 983",
+        "purchased_quantity":"209",
+        "sold_quantity":"37",
+        "predicted_sales":29.1213174939,
+        "prediction_year":2023
+    },
+    {
+        "product_id":50,
+        "description":"Aspersores Modelo 328",
+        "purchased_quantity":"0",
+        "sold_quantity":"45",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":51,
+        "description":"Conectores Modelo 476",
+        "purchased_quantity":"152",
+        "sold_quantity":"27",
+        "predicted_sales":24.479338706,
+        "prediction_year":2023
+    },
+    {
+        "product_id":52,
+        "description":"Mangueras Modelo 121",
+        "purchased_quantity":"0",
+        "sold_quantity":"30",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":53,
+        "description":"Filtros Modelo 800",
+        "purchased_quantity":"0",
+        "sold_quantity":"14",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":54,
+        "description":"V\u00e1lvulas Modelo 513",
+        "purchased_quantity":"0",
+        "sold_quantity":"18",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":55,
+        "description":"Bombas de agua Modelo 858",
+        "purchased_quantity":"0",
+        "sold_quantity":"20",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":56,
+        "description":"Accesorios Modelo 157",
+        "purchased_quantity":"814",
+        "sold_quantity":"24",
+        "predicted_sales":24.8969761905,
+        "prediction_year":2023
+    },
+    {
+        "product_id":57,
+        "description":"Tuber\u00edas Modelo 281",
+        "purchased_quantity":"0",
+        "sold_quantity":"14",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":58,
+        "description":"Herramientas Modelo 448",
+        "purchased_quantity":"0",
+        "sold_quantity":"24",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":59,
+        "description":"Otros accesorios agr\u00edcolas Modelo 108",
+        "purchased_quantity":"0",
+        "sold_quantity":"24",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":60,
+        "description":"Aspersores Modelo 684",
+        "purchased_quantity":"0",
+        "sold_quantity":"36",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":61,
+        "description":"Conectores Modelo 307",
+        "purchased_quantity":"0",
+        "sold_quantity":"25",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":62,
+        "description":"Mangueras Modelo 358",
+        "purchased_quantity":"800",
+        "sold_quantity":"22",
+        "predicted_sales":24.1566428571,
+        "prediction_year":2023
+    },
+    {
+        "product_id":63,
+        "description":"Filtros Modelo 596",
+        "purchased_quantity":"780",
+        "sold_quantity":"36",
+        "predicted_sales":30.6328095238,
+        "prediction_year":2023
+    },
+    {
+        "product_id":64,
+        "description":"V\u00e1lvulas Modelo 350",
+        "purchased_quantity":"0",
+        "sold_quantity":"2",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":65,
+        "description":"Bombas de agua Modelo 974",
+        "purchased_quantity":"880",
+        "sold_quantity":"32",
+        "predicted_sales":32.7161666667,
+        "prediction_year":2023
+    },
+    {
+        "product_id":66,
+        "description":"Accesorios Modelo 294",
+        "purchased_quantity":"460",
+        "sold_quantity":"14",
+        "predicted_sales":19.8626832612,
+        "prediction_year":2023
+    },
+    {
+        "product_id":67,
+        "description":"Tuber\u00edas Modelo 435",
+        "purchased_quantity":"0",
+        "sold_quantity":"29",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":68,
+        "description":"Herramientas Modelo 325",
+        "purchased_quantity":"306",
+        "sold_quantity":"28",
+        "predicted_sales":24.3355833669,
+        "prediction_year":2023
+    },
+    {
+        "product_id":69,
+        "description":"Otros accesorios agr\u00edcolas Modelo 568",
+        "purchased_quantity":"102",
+        "sold_quantity":"14",
+        "predicted_sales":17.9949909704,
+        "prediction_year":2023
+    },
+    {
+        "product_id":70,
+        "description":"Aspersores Modelo 251",
+        "purchased_quantity":"0",
+        "sold_quantity":"22",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":71,
+        "description":"Conectores Modelo 754",
+        "purchased_quantity":"441",
+        "sold_quantity":"22",
+        "predicted_sales":18.982861672,
+        "prediction_year":2023
+    },
+    {
+        "product_id":72,
+        "description":"Mangueras Modelo 787",
+        "purchased_quantity":"0",
+        "sold_quantity":"18",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":73,
+        "description":"Filtros Modelo 537",
+        "purchased_quantity":"310",
+        "sold_quantity":"25",
+        "predicted_sales":24.1675833669,
+        "prediction_year":2023
+    },
+    {
+        "product_id":74,
+        "description":"V\u00e1lvulas Modelo 678",
+        "purchased_quantity":"0",
+        "sold_quantity":"33",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":75,
+        "description":"Bombas de agua Modelo 889",
+        "purchased_quantity":"801",
+        "sold_quantity":"26",
+        "predicted_sales":25.3169761905,
+        "prediction_year":2023
+    },
+    {
+        "product_id":76,
+        "description":"Accesorios Modelo 541",
+        "purchased_quantity":"0",
+        "sold_quantity":"24",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":77,
+        "description":"Tuber\u00edas Modelo 125",
+        "purchased_quantity":"110",
+        "sold_quantity":"34",
+        "predicted_sales":18.1276695419,
+        "prediction_year":2023
+    },
+    {
+        "product_id":78,
+        "description":"Herramientas Modelo 519",
+        "purchased_quantity":"0",
+        "sold_quantity":"28",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":79,
+        "description":"Otros accesorios agr\u00edcolas Modelo 625",
+        "purchased_quantity":"0",
+        "sold_quantity":"44",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":80,
+        "description":"Aspersores Modelo 756",
+        "purchased_quantity":"0",
+        "sold_quantity":"22",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":81,
+        "description":"Conectores Modelo 739",
+        "purchased_quantity":"1008",
+        "sold_quantity":"48",
+        "predicted_sales":34.84875,
+        "prediction_year":2023
+    },
+    {
+        "product_id":82,
+        "description":"Mangueras Modelo 220",
+        "purchased_quantity":"0",
+        "sold_quantity":"31",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":83,
+        "description":"Filtros Modelo 454",
+        "purchased_quantity":"0",
+        "sold_quantity":"58",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":84,
+        "description":"V\u00e1lvulas Modelo 564",
+        "purchased_quantity":"720",
+        "sold_quantity":"34",
+        "predicted_sales":30.6328095238,
+        "prediction_year":2023
+    },
+    {
+        "product_id":85,
+        "description":"Bombas de agua Modelo 849",
+        "purchased_quantity":"243",
+        "sold_quantity":"26",
+        "predicted_sales":23.4568878402,
+        "prediction_year":2023
+    },
+    {
+        "product_id":86,
+        "description":"Accesorios Modelo 590",
+        "purchased_quantity":"0",
+        "sold_quantity":"31",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":87,
+        "description":"Tuber\u00edas Modelo 737",
+        "purchased_quantity":"0",
+        "sold_quantity":"29",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":88,
+        "description":"Herramientas Modelo 186",
+        "purchased_quantity":"360",
+        "sold_quantity":"36",
+        "predicted_sales":29.1403189369,
+        "prediction_year":2023
+    },
+    {
+        "product_id":89,
+        "description":"Otros accesorios agr\u00edcolas Modelo 647",
+        "purchased_quantity":"0",
+        "sold_quantity":"36",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":90,
+        "description":"Aspersores Modelo 799",
+        "purchased_quantity":"0",
+        "sold_quantity":"42",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":91,
+        "description":"Conectores Modelo 950",
+        "purchased_quantity":"930",
+        "sold_quantity":"31",
+        "predicted_sales":30.9861666667,
+        "prediction_year":2023
+    },
+    {
+        "product_id":92,
+        "description":"Mangueras Modelo 316",
+        "purchased_quantity":"448",
+        "sold_quantity":"27",
+        "predicted_sales":22.1352426243,
+        "prediction_year":2023
+    },
+    {
+        "product_id":93,
+        "description":"Filtros Modelo 523",
+        "purchased_quantity":"0",
+        "sold_quantity":"7",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":94,
+        "description":"V\u00e1lvulas Modelo 239",
+        "purchased_quantity":"245",
+        "sold_quantity":"20",
+        "predicted_sales":22.5814441173,
+        "prediction_year":2023
+    },
+    {
+        "product_id":95,
+        "description":"Bombas de agua Modelo 149",
+        "purchased_quantity":"0",
+        "sold_quantity":"20",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":96,
+        "description":"Accesorios Modelo 800",
+        "purchased_quantity":"0",
+        "sold_quantity":"25",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":97,
+        "description":"Tuber\u00edas Modelo 207",
+        "purchased_quantity":"0",
+        "sold_quantity":"18",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":98,
+        "description":"Herramientas Modelo 531",
+        "purchased_quantity":"0",
+        "sold_quantity":"31",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":99,
+        "description":"Otros accesorios agr\u00edcolas Modelo 697",
+        "purchased_quantity":"0",
+        "sold_quantity":"14",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    },
+    {
+        "product_id":100,
+        "description":"Aspersores Modelo 104",
+        "purchased_quantity":"0",
+        "sold_quantity":"13",
+        "predicted_sales":23.745720833,
+        "prediction_year":2023
+    }
+]

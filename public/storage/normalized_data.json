@@ -1,0 +1,786 @@
+[
+    {
+        "product_id": 10,
+        "purchased_quantity": "782",
+        "sold_quantity": "72",
+        "remaining_stock": "710",
+        "year": 2022
+    },
+    {
+        "product_id": 20,
+        "purchased_quantity": "779",
+        "sold_quantity": "68",
+        "remaining_stock": "711",
+        "year": 2022
+    },
+    {
+        "product_id": 30,
+        "purchased_quantity": "750",
+        "sold_quantity": "74",
+        "remaining_stock": "676",
+        "year": 2024
+    },
+    {
+        "product_id": 40,
+        "purchased_quantity": "1610",
+        "sold_quantity": "59",
+        "remaining_stock": "1551",
+        "year": 2022
+    },
+    {
+        "product_id": 50,
+        "purchased_quantity": "405",
+        "sold_quantity": "85",
+        "remaining_stock": "320",
+        "year": 2024
+    },
+    {
+        "product_id": 60,
+        "purchased_quantity": "1767",
+        "sold_quantity": "87",
+        "remaining_stock": "1680",
+        "year": 2022
+    },
+    {
+        "product_id": 70,
+        "purchased_quantity": "575",
+        "sold_quantity": "56",
+        "remaining_stock": "519",
+        "year": 2024
+    },
+    {
+        "product_id": 80,
+        "purchased_quantity": "837",
+        "sold_quantity": "84",
+        "remaining_stock": "753",
+        "year": 2024
+    },
+    {
+        "product_id": 90,
+        "purchased_quantity": "570",
+        "sold_quantity": "87",
+        "remaining_stock": "483",
+        "year": 2022
+    },
+    {
+        "product_id": 100,
+        "purchased_quantity": "558",
+        "sold_quantity": "83",
+        "remaining_stock": "475",
+        "year": 2024
+    },
+    {
+        "product_id": 1,
+        "purchased_quantity": "1848",
+        "sold_quantity": "56",
+        "remaining_stock": "1792",
+        "year": 2023
+    },
+    {
+        "product_id": 11,
+        "purchased_quantity": "750",
+        "sold_quantity": "83",
+        "remaining_stock": "667",
+        "year": 2023
+    },
+    {
+        "product_id": 21,
+        "purchased_quantity": "1656",
+        "sold_quantity": "77",
+        "remaining_stock": "1579",
+        "year": 2024
+    },
+    {
+        "product_id": 31,
+        "purchased_quantity": "728",
+        "sold_quantity": "85",
+        "remaining_stock": "643",
+        "year": 2022
+    },
+    {
+        "product_id": 41,
+        "purchased_quantity": "264",
+        "sold_quantity": "66",
+        "remaining_stock": "198",
+        "year": 2024
+    },
+    {
+        "product_id": 51,
+        "purchased_quantity": "570",
+        "sold_quantity": "82",
+        "remaining_stock": "488",
+        "year": 2023
+    },
+    {
+        "product_id": 61,
+        "purchased_quantity": "672",
+        "sold_quantity": "68",
+        "remaining_stock": "604",
+        "year": 2022
+    },
+    {
+        "product_id": 71,
+        "purchased_quantity": "1827",
+        "sold_quantity": "89",
+        "remaining_stock": "1738",
+        "year": 2023
+    },
+    {
+        "product_id": 81,
+        "purchased_quantity": "2331",
+        "sold_quantity": "101",
+        "remaining_stock": "2230",
+        "year": 2023
+    },
+    {
+        "product_id": 91,
+        "purchased_quantity": "2325",
+        "sold_quantity": "76",
+        "remaining_stock": "2249",
+        "year": 2023
+    },
+    {
+        "product_id": 2,
+        "purchased_quantity": "1464",
+        "sold_quantity": "75",
+        "remaining_stock": "1389",
+        "year": 2024
+    },
+    {
+        "product_id": 2,
+        "purchased_quantity": "960",
+        "sold_quantity": "75",
+        "remaining_stock": "885",
+        "year": 2022
+    },
+    {
+        "product_id": 2,
+        "purchased_quantity": "2280",
+        "sold_quantity": "75",
+        "remaining_stock": "2205",
+        "year": 2023
+    },
+    {
+        "product_id": 12,
+        "purchased_quantity": "364",
+        "sold_quantity": "42",
+        "remaining_stock": "322",
+        "year": 2022
+    },
+    {
+        "product_id": 22,
+        "purchased_quantity": "1992",
+        "sold_quantity": "73",
+        "remaining_stock": "1919",
+        "year": 2024
+    },
+    {
+        "product_id": 32,
+        "purchased_quantity": "770",
+        "sold_quantity": "60",
+        "remaining_stock": "710",
+        "year": 2022
+    },
+    {
+        "product_id": 42,
+        "purchased_quantity": "1116",
+        "sold_quantity": "55",
+        "remaining_stock": "1061",
+        "year": 2023
+    },
+    {
+        "product_id": 52,
+        "purchased_quantity": "1325",
+        "sold_quantity": "78",
+        "remaining_stock": "1247",
+        "year": 2024
+    },
+    {
+        "product_id": 62,
+        "purchased_quantity": "2500",
+        "sold_quantity": "78",
+        "remaining_stock": "2422",
+        "year": 2023
+    },
+    {
+        "product_id": 72,
+        "purchased_quantity": "2047",
+        "sold_quantity": "66",
+        "remaining_stock": "1981",
+        "year": 2024
+    },
+    {
+        "product_id": 82,
+        "purchased_quantity": "242",
+        "sold_quantity": "65",
+        "remaining_stock": "177",
+        "year": 2024
+    },
+    {
+        "product_id": 92,
+        "purchased_quantity": "1664",
+        "sold_quantity": "82",
+        "remaining_stock": "1582",
+        "year": 2023
+    },
+    {
+        "product_id": 3,
+        "purchased_quantity": "416",
+        "sold_quantity": "83",
+        "remaining_stock": "333",
+        "year": 2023
+    },
+    {
+        "product_id": 3,
+        "purchased_quantity": "3666",
+        "sold_quantity": "166",
+        "remaining_stock": "3500",
+        "year": 2022
+    },
+    {
+        "product_id": 3,
+        "purchased_quantity": "858",
+        "sold_quantity": "83",
+        "remaining_stock": "775",
+        "year": 2024
+    },
+    {
+        "product_id": 13,
+        "purchased_quantity": "1675",
+        "sold_quantity": "83",
+        "remaining_stock": "1592",
+        "year": 2022
+    },
+    {
+        "product_id": 23,
+        "purchased_quantity": "1455",
+        "sold_quantity": "38",
+        "remaining_stock": "1417",
+        "year": 2023
+    },
+    {
+        "product_id": 33,
+        "purchased_quantity": "966",
+        "sold_quantity": "65",
+        "remaining_stock": "901",
+        "year": 2022
+    },
+    {
+        "product_id": 43,
+        "purchased_quantity": "2392",
+        "sold_quantity": "74",
+        "remaining_stock": "2318",
+        "year": 2023
+    },
+    {
+        "product_id": 53,
+        "purchased_quantity": "1176",
+        "sold_quantity": "71",
+        "remaining_stock": "1105",
+        "year": 2022
+    },
+    {
+        "product_id": 63,
+        "purchased_quantity": "1404",
+        "sold_quantity": "67",
+        "remaining_stock": "1337",
+        "year": 2023
+    },
+    {
+        "product_id": 73,
+        "purchased_quantity": "775",
+        "sold_quantity": "72",
+        "remaining_stock": "703",
+        "year": 2023
+    },
+    {
+        "product_id": 83,
+        "purchased_quantity": "1080",
+        "sold_quantity": "103",
+        "remaining_stock": "977",
+        "year": 2024
+    },
+    {
+        "product_id": 93,
+        "purchased_quantity": "874",
+        "sold_quantity": "47",
+        "remaining_stock": "827",
+        "year": 2024
+    },
+    {
+        "product_id": 4,
+        "purchased_quantity": "924",
+        "sold_quantity": "73",
+        "remaining_stock": "851",
+        "year": 2023
+    },
+    {
+        "product_id": 4,
+        "purchased_quantity": "462",
+        "sold_quantity": "73",
+        "remaining_stock": "389",
+        "year": 2024
+    },
+    {
+        "product_id": 14,
+        "purchased_quantity": "1416",
+        "sold_quantity": "74",
+        "remaining_stock": "1342",
+        "year": 2023
+    },
+    {
+        "product_id": 14,
+        "purchased_quantity": "1392",
+        "sold_quantity": "148",
+        "remaining_stock": "1244",
+        "year": 2024
+    },
+    {
+        "product_id": 24,
+        "purchased_quantity": "585",
+        "sold_quantity": "47",
+        "remaining_stock": "538",
+        "year": 2024
+    },
+    {
+        "product_id": 34,
+        "purchased_quantity": "360",
+        "sold_quantity": "52",
+        "remaining_stock": "308",
+        "year": 2024
+    },
+    {
+        "product_id": 44,
+        "purchased_quantity": "325",
+        "sold_quantity": "70",
+        "remaining_stock": "255",
+        "year": 2022
+    },
+    {
+        "product_id": 54,
+        "purchased_quantity": "700",
+        "sold_quantity": "63",
+        "remaining_stock": "637",
+        "year": 2022
+    },
+    {
+        "product_id": 64,
+        "purchased_quantity": "405",
+        "sold_quantity": "95",
+        "remaining_stock": "310",
+        "year": 2022
+    },
+    {
+        "product_id": 74,
+        "purchased_quantity": "462",
+        "sold_quantity": "99",
+        "remaining_stock": "363",
+        "year": 2024
+    },
+    {
+        "product_id": 84,
+        "purchased_quantity": "1500",
+        "sold_quantity": "75",
+        "remaining_stock": "1425",
+        "year": 2023
+    },
+    {
+        "product_id": 94,
+        "purchased_quantity": "840",
+        "sold_quantity": "74",
+        "remaining_stock": "766",
+        "year": 2023
+    },
+    {
+        "product_id": 5,
+        "purchased_quantity": "1750",
+        "sold_quantity": "162",
+        "remaining_stock": "1588",
+        "year": 2022
+    },
+    {
+        "product_id": 5,
+        "purchased_quantity": "1025",
+        "sold_quantity": "162",
+        "remaining_stock": "863",
+        "year": 2023
+    },
+    {
+        "product_id": 15,
+        "purchased_quantity": "255",
+        "sold_quantity": "51",
+        "remaining_stock": "204",
+        "year": 2024
+    },
+    {
+        "product_id": 25,
+        "purchased_quantity": "2700",
+        "sold_quantity": "94",
+        "remaining_stock": "2606",
+        "year": 2022
+    },
+    {
+        "product_id": 35,
+        "purchased_quantity": "1296",
+        "sold_quantity": "56",
+        "remaining_stock": "1240",
+        "year": 2023
+    },
+    {
+        "product_id": 45,
+        "purchased_quantity": "1924",
+        "sold_quantity": "71",
+        "remaining_stock": "1853",
+        "year": 2023
+    },
+    {
+        "product_id": 55,
+        "purchased_quantity": "651",
+        "sold_quantity": "61",
+        "remaining_stock": "590",
+        "year": 2022
+    },
+    {
+        "product_id": 65,
+        "purchased_quantity": "1936",
+        "sold_quantity": "72",
+        "remaining_stock": "1864",
+        "year": 2023
+    },
+    {
+        "product_id": 75,
+        "purchased_quantity": "2314",
+        "sold_quantity": "84",
+        "remaining_stock": "2230",
+        "year": 2023
+    },
+    {
+        "product_id": 85,
+        "purchased_quantity": "648",
+        "sold_quantity": "73",
+        "remaining_stock": "575",
+        "year": 2023
+    },
+    {
+        "product_id": 95,
+        "purchased_quantity": "1150",
+        "sold_quantity": "75",
+        "remaining_stock": "1075",
+        "year": 2022
+    },
+    {
+        "product_id": 6,
+        "purchased_quantity": "806",
+        "sold_quantity": "89",
+        "remaining_stock": "717",
+        "year": 2024
+    },
+    {
+        "product_id": 6,
+        "purchased_quantity": "1023",
+        "sold_quantity": "89",
+        "remaining_stock": "934",
+        "year": 2022
+    },
+    {
+        "product_id": 16,
+        "purchased_quantity": "2376",
+        "sold_quantity": "80",
+        "remaining_stock": "2296",
+        "year": 2022
+    },
+    {
+        "product_id": 16,
+        "purchased_quantity": "360",
+        "sold_quantity": "80",
+        "remaining_stock": "280",
+        "year": 2023
+    },
+    {
+        "product_id": 26,
+        "purchased_quantity": "1780",
+        "sold_quantity": "68",
+        "remaining_stock": "1712",
+        "year": 2023
+    },
+    {
+        "product_id": 36,
+        "purchased_quantity": "660",
+        "sold_quantity": "73",
+        "remaining_stock": "587",
+        "year": 2024
+    },
+    {
+        "product_id": 46,
+        "purchased_quantity": "680",
+        "sold_quantity": "59",
+        "remaining_stock": "621",
+        "year": 2022
+    },
+    {
+        "product_id": 56,
+        "purchased_quantity": "1628",
+        "sold_quantity": "54",
+        "remaining_stock": "1574",
+        "year": 2023
+    },
+    {
+        "product_id": 66,
+        "purchased_quantity": "2392",
+        "sold_quantity": "81",
+        "remaining_stock": "2311",
+        "year": 2023
+    },
+    {
+        "product_id": 76,
+        "purchased_quantity": "1628",
+        "sold_quantity": "62",
+        "remaining_stock": "1566",
+        "year": 2022
+    },
+    {
+        "product_id": 86,
+        "purchased_quantity": "1428",
+        "sold_quantity": "81",
+        "remaining_stock": "1347",
+        "year": 2022
+    },
+    {
+        "product_id": 96,
+        "purchased_quantity": "320",
+        "sold_quantity": "118",
+        "remaining_stock": "202",
+        "year": 2024
+    },
+    {
+        "product_id": 7,
+        "purchased_quantity": "4094",
+        "sold_quantity": "213",
+        "remaining_stock": "3881",
+        "year": 2024
+    },
+    {
+        "product_id": 7,
+        "purchased_quantity": "1219",
+        "sold_quantity": "71",
+        "remaining_stock": "1148",
+        "year": 2022
+    },
+    {
+        "product_id": 17,
+        "purchased_quantity": "1380",
+        "sold_quantity": "57",
+        "remaining_stock": "1323",
+        "year": 2024
+    },
+    {
+        "product_id": 27,
+        "purchased_quantity": "2254",
+        "sold_quantity": "60",
+        "remaining_stock": "2194",
+        "year": 2023
+    },
+    {
+        "product_id": 37,
+        "purchased_quantity": "1134",
+        "sold_quantity": "52",
+        "remaining_stock": "1082",
+        "year": 2024
+    },
+    {
+        "product_id": 47,
+        "purchased_quantity": "483",
+        "sold_quantity": "75",
+        "remaining_stock": "408",
+        "year": 2024
+    },
+    {
+        "product_id": 57,
+        "purchased_quantity": "1880",
+        "sold_quantity": "59",
+        "remaining_stock": "1821",
+        "year": 2022
+    },
+    {
+        "product_id": 67,
+        "purchased_quantity": "1944",
+        "sold_quantity": "81",
+        "remaining_stock": "1863",
+        "year": 2024
+    },
+    {
+        "product_id": 77,
+        "purchased_quantity": "264",
+        "sold_quantity": "77",
+        "remaining_stock": "187",
+        "year": 2023
+    },
+    {
+        "product_id": 87,
+        "purchased_quantity": "294",
+        "sold_quantity": "66",
+        "remaining_stock": "228",
+        "year": 2022
+    },
+    {
+        "product_id": 97,
+        "purchased_quantity": "1278",
+        "sold_quantity": "62",
+        "remaining_stock": "1216",
+        "year": 2024
+    },
+    {
+        "product_id": 8,
+        "purchased_quantity": "1200",
+        "sold_quantity": "93",
+        "remaining_stock": "1107",
+        "year": 2022
+    },
+    {
+        "product_id": 18,
+        "purchased_quantity": "3801",
+        "sold_quantity": "153",
+        "remaining_stock": "3648",
+        "year": 2024
+    },
+    {
+        "product_id": 28,
+        "purchased_quantity": "399",
+        "sold_quantity": "62",
+        "remaining_stock": "337",
+        "year": 2024
+    },
+    {
+        "product_id": 38,
+        "purchased_quantity": "1760",
+        "sold_quantity": "62",
+        "remaining_stock": "1698",
+        "year": 2024
+    },
+    {
+        "product_id": 48,
+        "purchased_quantity": "1860",
+        "sold_quantity": "85",
+        "remaining_stock": "1775",
+        "year": 2023
+    },
+    {
+        "product_id": 58,
+        "purchased_quantity": "1764",
+        "sold_quantity": "61",
+        "remaining_stock": "1703",
+        "year": 2024
+    },
+    {
+        "product_id": 68,
+        "purchased_quantity": "986",
+        "sold_quantity": "93",
+        "remaining_stock": "893",
+        "year": 2023
+    },
+    {
+        "product_id": 78,
+        "purchased_quantity": "338",
+        "sold_quantity": "74",
+        "remaining_stock": "264",
+        "year": 2022
+    },
+    {
+        "product_id": 88,
+        "purchased_quantity": "750",
+        "sold_quantity": "77",
+        "remaining_stock": "673",
+        "year": 2023
+    },
+    {
+        "product_id": 98,
+        "purchased_quantity": "1647",
+        "sold_quantity": "78",
+        "remaining_stock": "1569",
+        "year": 2022
+    },
+    {
+        "product_id": 9,
+        "purchased_quantity": "400",
+        "sold_quantity": "55",
+        "remaining_stock": "345",
+        "year": 2022
+    },
+    {
+        "product_id": 9,
+        "purchased_quantity": "2175",
+        "sold_quantity": "55",
+        "remaining_stock": "2120",
+        "year": 2024
+    },
+    {
+        "product_id": 19,
+        "purchased_quantity": "1440",
+        "sold_quantity": "63",
+        "remaining_stock": "1377",
+        "year": 2022
+    },
+    {
+        "product_id": 19,
+        "purchased_quantity": "1344",
+        "sold_quantity": "63",
+        "remaining_stock": "1281",
+        "year": 2023
+    },
+    {
+        "product_id": 29,
+        "purchased_quantity": "1100",
+        "sold_quantity": "67",
+        "remaining_stock": "1033",
+        "year": 2023
+    },
+    {
+        "product_id": 39,
+        "purchased_quantity": "504",
+        "sold_quantity": "61",
+        "remaining_stock": "443",
+        "year": 2022
+    },
+    {
+        "product_id": 49,
+        "purchased_quantity": "551",
+        "sold_quantity": "92",
+        "remaining_stock": "459",
+        "year": 2023
+    },
+    {
+        "product_id": 59,
+        "purchased_quantity": "336",
+        "sold_quantity": "74",
+        "remaining_stock": "262",
+        "year": 2022
+    },
+    {
+        "product_id": 69,
+        "purchased_quantity": "680",
+        "sold_quantity": "60",
+        "remaining_stock": "620",
+        "year": 2023
+    },
+    {
+        "product_id": 79,
+        "purchased_quantity": "1943",
+        "sold_quantity": "97",
+        "remaining_stock": "1846",
+        "year": 2024
+    },
+    {
+        "product_id": 89,
+        "purchased_quantity": "1600",
+        "sold_quantity": "88",
+        "remaining_stock": "1512",
+        "year": 2024
+    },
+    {
+        "product_id": 99,
+        "purchased_quantity": "1691",
+        "sold_quantity": "59",
+        "remaining_stock": "1632",
+        "year": 2022
+    }
+]

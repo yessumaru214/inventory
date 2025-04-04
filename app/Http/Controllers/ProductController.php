@@ -24,6 +24,14 @@ class ProductController extends Controller
        return view('product.product',['category'=>$category]);
     }
 
+
+    public function getAllProducts()
+    {
+        $products = Product::select('id', 'product_name')->orderBy('product_name', 'asc')->get();
+        return response()->json($products);
+    }
+
+
     /**
      * Show the form for creating a new resource.
      *

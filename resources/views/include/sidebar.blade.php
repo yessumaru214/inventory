@@ -19,59 +19,39 @@
             </div>
             <!-- #User Info -->
             <!-- Menu -->
-            <div class="menu">
-                <ul class="list">
-                    <li class="header">NAVEGACIÓN PRINCIPAL</li>
-                    <li @if(Route::currentRouteName()=='' ) class="active" @endif>
-                        <a href="{{ url('/') }}">
-                            <i class="material-icons">dashboard</i>
-                            <span>Dashboard</span>
+            <!-- filepath: /C:/laragon/www/inventory/resources/views/include/sidebar.blade.php -->
+<!-- #User Info -->
+<!-- Menu -->
+<!-- filepath: /C:/laragon/www/inventory/resources/views/include/sidebar.blade.php -->
+<!-- Menu -->
+<div class="menu">
+    <ul class="list">
+        <li class="header">NAVEGACIÓN PRINCIPAL</li>
+        <li @if(Route::currentRouteName()=='' ) class="active" @endif>
+            <a href="{{ url('/') }}">
+                <i class="material-icons">dashboard</i>
+                <span>Dashboard</span>
+            </a>
+        </li>
+
+        @php
+        $side_menu = Session::get('side_menu');
+        @endphp
+
+        @if($side_menu)
+            @foreach($side_menu as $menu)
+                @if(Route::has($menu->menu_url))
+                    <li @if(Route::currentRouteName() == $menu->menu_url) class="active" @endif>
+                        <a href="{{ route($menu->menu_url) }}">
+                            <i class="material-icons">{{ $menu->icon }}</i>
+                            <span>{{ $menu->menu_name }}</span> <!-- Usar 'menu_name' que ahora es 'name' -->
                         </a>
                     </li>
-
-                    @php
-
-                    $side_menu = Session::get('side_menu');
-                    
-                    @endphp
-
-                    @foreach($side_menu[0] as $value)
-
-                    @if(count($value['sub_menu'])>0)
-                    <li class="parent">
-                        <a href="javascript:void(0);" class="menu-toggle">
-                            <i class="material-icons">{{ $value['icon'] }}</i>
-                            <span>{{ $value['name'] }}</span>
-                        </a>
-                        <ul class="ml-menu">
-
-                            @foreach($value['sub_menu'] as $sub)
-                            <li @if(Route::currentRouteName()==$sub->menu_url) class="active" @endif>
-                                <a href="{{ $sub->menu_url ? route($sub->menu_url) : '' }}">
-                                    <span>{{ $sub->name }}</span>
-                                </a>
-
-                            </li>
-                            @endforeach
-
-                        </ul>
-                    </li>
-
-                    @else
-
-                    <li @if(Route::currentRouteName()==$value['url']) class="active" @endif>
-                        <a href="{{ $value['url'] ? route($value['url']) : '' }}">
-                            <i class="material-icons">{{ $value['icon'] }}</i>
-                            <span>{{ $value['name'] }}</span>
-                        </a>
-                    </li>
-
-                    @endif
-
-                    @endforeach()
-
-                </ul>
-            </div>
+                @endif
+            @endforeach
+        @endif
+    </ul>
+</div>
 
         </aside>
         <!-- #END# Left Sidebar -->

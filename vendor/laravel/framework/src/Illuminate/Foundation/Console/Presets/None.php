@@ -52,6 +52,7 @@ class None extends Preset
      */
     protected static function updateBootstrapping()
     {
-
+        file_put_contents(resource_path('assets/sass/app.scss'), ''.PHP_EOL);
+        copy(__DIR__.'/none-stubs/app.js', resource_path('assets/js/app.js'));
     }
 }

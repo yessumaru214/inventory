@@ -9,8 +9,7 @@
  get and post mehod for update and delete
 |
 */
-
-
+use App\Http\Controllers\MachineLearningController_2;
 Route::group(['middleware'=> ['auth','check.permission']],function(){
 
 // dashaboard 
@@ -75,17 +74,31 @@ Route::get('report',['as'=>'report.index','uses'=>'ReportingController@index']);
 Route::get('get-report',['as'=>'report.store','uses'=>'ReportingController@store']);
 Route::get('print-report',['as'=>'report.print','uses'=>'ReportingController@Print']);
 
-// Predicción
+/* Prediction and Training
+Route::get('prediction', 'PredictionController@index')->name('prediction.index');
+Route::post('/prediction/train', 'PredictionController@train')->name('prediction.train');
 
-Route::get('normalize-data', 'PredictionController@normalizeDataToJson');
+Route::get('extra-trees', 'ExtraTreesController@index')->name('extra_trees.index');
+Route::post('extra-trees/train', 'ExtraTreesController@train')->name('extra_trees.train');
+
+Route::get('machine-learning', 'MachineLearningController@index')->name('machine_learning.index');
+Route::post('machine-learning/train', 'MachineLearningController@train')->name('machine_learning.train');
+*/
+// Rutas para MachineLearningController_2
+Route::get('machine-learning_2', 'MachineLearningController_2@index')->name('machine_learning_2.index');
+Route::post('machine-learning_2/train', 'MachineLearningController_2@train')->name('machine_learning_2.train');
+/*
+Route::get('quarterly-predict', 'QuarterlyPredictionController@index')->name('quarterly_predict.index');
+Route::post('quarterly-predict', 'QuarterlyPredictionController@predict')->name('quarterly_predict');
+
+Route::get('/predict', 'PredictionController@index')->name('predict.index');
+Route::post('/predict', 'PredictionController@predict')->name('predict')
 
 
+Route::get('/predict', 'PredictionController@index')->name('predict.index');
 
-Route::get('/generate-data-json', 'PredictionController@generateDataJson')->name('data.generate');
-
-
-
-
+Route::post('/predict', 'PredictionController@predict')->name('predict');
+;*/
 // user management 
 Route::resource('user','UserManageController');
 Route::get('user/delete/{id}','UserManageController@destroy');

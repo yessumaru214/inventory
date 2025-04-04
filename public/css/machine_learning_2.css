@@ -1,0 +1,20 @@
+.table-container {
+    display: none;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #000;
+    text-align: center;
+    vertical-align: top;
+}
+
+.table-dark th {
+    white-space: normal;
+    word-wrap: break-word;
+    max-width: 50px;
+}
+
+.d-none.d-md-table-cell {
+    color: #A0A0A0;
+}
+

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 
@@ -12,6 +12,7 @@
             width: 100% !important;
         }
     </style>
+    <link rel="stylesheet" href="{{ asset('css/machine_learning_2.css') }}">
 </head>
 
 <body class="theme-teal" onload="loaded()">
